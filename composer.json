@@ -1,0 +1,13 @@
+{
+    "require": {
+        "spatie/file-system-watcher": "^1.1",
+        "cheprasov/php-cli-args": "^3.0",
+        "matthiasmullie/minify": "^1.3"
+    },
+    "scripts": {
+        "minimon": "@php minimon.php"
+    },
+    "scripts-descriptions": {
+        "minimon": "This command activates the minimon.php"
+    }
+}
